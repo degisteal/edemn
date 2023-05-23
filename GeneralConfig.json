@@ -1,0 +1,10 @@
+{
+	"ConnectionResult": "1",
+	"ActiveVersion": "0.0.1",
+	"MapCurrent": "Menu",
+	"ShopDiscount": "0",
+	// B14DFFFF - Default General Color
+	// FFFFFFFF - Default Text Color
+	"GWidgetColor" : "B14DFFFF",
+	"GTextWidgetColor" : "FFFFFFFF"
+}
