@@ -3,6 +3,6 @@
 	"ActiveVersion": "0.0.1",
 	"MapCurrent": "Menu",
 	"ShopDiscount": "0",
-	"GWidgetColor" : "B14DFFFF",
-	"GTextWidgetColor" : "FFFFFFFF"
+	"GWidgetColor" : "(G=0.59,B=0,R=1)",
+	"GTextWidgetColor" : "(G=0,B=0,R=0)"
 }
